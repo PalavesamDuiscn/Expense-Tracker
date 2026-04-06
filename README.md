@@ -67,7 +67,3 @@ expense-tracker/
 - [ ] Filter & search transactions
 
 ---
-
-## 📄 License
-
-MIT — free to use and modify.
